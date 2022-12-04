@@ -17,7 +17,7 @@ Assets externos usados:
 - DoTween.
 - Musica sin copyright.
 
-ING
+ENG
 
 This proyect was realized for the Evoloot challenge 2022.
 
